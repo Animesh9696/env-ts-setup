@@ -8,3 +8,8 @@
   ```sh
   npm run test
   
+- Use below command to run webpack and generate js code_____
+ 
+  ```sh
+  npm run build
+  
